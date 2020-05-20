@@ -9,8 +9,7 @@
 </p>
 
 <hr>
-| [Matheus Souza]
-(https://github.com/Mat20)
+ [Matheus Souza] (https://github.com/Mat20)
 
 ## Participants
 
