@@ -1,4 +1,6 @@
-<h1 align="center">Code Challenge Recoil - esse projeto e baseado em React-App, a state management library for React https://recoiljs.org/
+<h1 align="center">Code Challenge Recoil - esse projeto e baseado em React-App</h1>
+
+ <h2 align="center">A state management library for React https://recoiljs.org/ </h2>
 
 <p align="center">First look at new Facebook state management library for React.</p>
 
